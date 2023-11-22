@@ -58,7 +58,7 @@ global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/8fa78f4cd1cddd918c745.jpg"
 global.allmenuimg =" https://telegra.ph/file/8fa78f4cd1cddd918c745.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.welcomeimg= "https://telegra.ph/file/8fa78f4cd1cddd918c745.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions\n#https://chat.whatsapp.com/F5dqn5Puus7ABP8WIfsbgF"
 
